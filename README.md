@@ -17,7 +17,7 @@ The motions are controlled through the Arduino Serial Monitor.
   <img src="Ard.jpg" alt="Robot Dog" width="600">
 </p>
 
-### Project Screenshot
+### Serial Monitor
 <p align="center">
   <img src="Screenshot.png" alt="Project Screenshot" width="600">
 </p>
