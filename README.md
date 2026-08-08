@@ -127,19 +127,3 @@ Command: `3`
 | `Screenshot.png` | Project screenshot |
 | `Vid.MOV` | Demonstration video |
 | `README.md` | Project documentation |
-
----
-
-## Project Structure
-Robot-Dog/
-├── Task_2_Mec.ino
-├── Ard.jpg
-├── Screenshot.png
-├── Vid.MOV
-└── README.md
-
----
-
-## Task
-
-This project was completed as part of a robotics mechanics task. The main objective was to calibrate the servo motors and implement multiple movements for a four-legged robot dog.
